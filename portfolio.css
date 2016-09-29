@@ -1,0 +1,20 @@
+body{
+    background-image: url(http://svce.acm.org/wp-content/uploads/2013/07/keep-calm-and-try-coding.png);
+    color: lightgray;
+}
+img{
+    width: 500px;
+    height: auto;
+    border: 2px solid black;
+}
+p{
+    font-size: 16pt;
+    width: 500px;
+}
+a{
+    color: darkred;
+    display: block;
+}
+h1{
+    font-size: 26pt;
+}
